@@ -36,6 +36,7 @@
 		89EF4EC11DBBE1E4004552C0 /* Swift_Generic_osxdevTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Swift_Generic_osxdevTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		89EF4EC51DBBE1E4004552C0 /* Swift_Generic_osxdevTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_Generic_osxdevTests.swift; sourceTree = "<group>"; };
 		89EF4EC71DBBE1E4004552C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89EF4ED01DBBE1F3004552C0 /* Generics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Generics.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		89EF4EAF1DBBE1E3004552C0 /* Swift_Generic_osxdev */ = {
 			isa = PBXGroup;
 			children = (
+				89EF4ED01DBBE1F3004552C0 /* Generics.playground */,
 				89EF4EB01DBBE1E3004552C0 /* AppDelegate.swift */,
 				89EF4EB21DBBE1E3004552C0 /* ViewController.swift */,
 				89EF4EB41DBBE1E3004552C0 /* Main.storyboard */,
